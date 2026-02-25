@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
-  <h1>Olá! Eu sou o Hugo.</h1>
+
+  <h1>Oi! Eu sou o Hugo.</h1>
   
   <p align="center">
     <b>Engenharia Reversa & Decompilação</b> | <b>Desenvolvimento Web</b> | <b>Arte Técnica & 3D</b>
