@@ -17,7 +17,7 @@
 
 ### 🧠 O que eu faço
 
-Sou um desenvolvedor híbrido que gosta de transitar entre os extremos da computação. De um lado, mergulho em binários com **Engenharia Reversa** para entender e preservar softwares legados. Do outro, uso essa base técnica para criar experiências visuais, seja modelando em **3D**, criando **Pixel Art** ou desenvolvendo interfaces modernas com **React.js**.
+Sou um desenvolvedor que gosta de transitar entre os extremos da computação. De um lado, mergulho em binários com engenharia reversa para entender e preservar softwares legados. Do outro, uso essa base técnica para criar experiências visuais, seja modelando em 3D, criando pixel art ou desenvolvendo interfaces modernas com react.js.
 
 ---
 
