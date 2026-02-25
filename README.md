@@ -52,17 +52,8 @@ Para construir interfaces e apresentar projetos.
 <div align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-</div>
-
----
-
-### 📊 Métricas do GitHub
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUGONUNESFRANCA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="Hugo's Github Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUGONUNESFRANCA&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Langs"/>
-  </a>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
 ---
